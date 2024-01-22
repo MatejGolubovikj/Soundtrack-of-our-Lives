@@ -10,11 +10,11 @@ For the purpose of the experiment we use a sample of users, tracks and listening
 
 The experiment was run in Python 3 using Jupyter Notebooks and depends on a number of libraries. Most of the requirements are available in the Anaconda distribution (https://www.anaconda.com/download). Only the LensKit library is not present in the anaconda distribution and needs to be installed separately (https://lkpy.readthedocs.io/en/stable/install.html). The full list of dependencies is:
 
-- "Python"("https://www.python.org/downloads/")
-- "Jupyter Notebook" (https://jupyter.org/) - browser-based python notebooks, 
-- "Pandas" (https://pandas.pydata.org/) - data wrangling library, 
-- "NumPy" (https://numpy.org/) - linear algebra library,
-- "LensKit" (https://lenskit.org/) - recommender system library,
+- Python v3.11.5 ("https://www.python.org/downloads/"),
+- Jupyter Notebook v6.5.4 (https://jupyter.org/) - browser-based python notebooks, 
+- Pandas v1.5.3 (https://pandas.pydata.org/) - data wrangling library, 
+- NumPy v1.24.3 (https://numpy.org/) - linear algebra library,
+- LensKit v0.14.2 (https://lenskit.org/) - recommender system library,
 
 ## Files
 Present are the following files:
