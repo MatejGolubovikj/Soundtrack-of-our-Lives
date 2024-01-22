@@ -14,7 +14,7 @@ The experiment was run in Python 3 using Jupyter Notebooks and depends on a numb
 - Jupyter Notebook v6.5.4 (https://jupyter.org/) - browser-based python notebooks, 
 - Pandas v1.5.3 (https://pandas.pydata.org/) - data wrangling library, 
 - NumPy v1.24.3 (https://numpy.org/) - linear algebra library,
-- LensKit v0.14.2 (https://lenskit.org/) - recommender system library,
+- LensKit v0.14.2 (https://lenskit.org/) - recommender system library.
 
 ## Files
 Present are the following files:
